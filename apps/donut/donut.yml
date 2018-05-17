@@ -1,6 +1,7 @@
 name: Donut
 description: 'Dead-simple cross-platform cryptocurrency tracker!'
 website: 'https://www.etherbit.in/open-source/donut'
+homebrewCaskName: donut
 repository: 'https://github.com/etherbithq/donut'
 keywords:
     - cryptocurrency
